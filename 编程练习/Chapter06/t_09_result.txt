@@ -1,0 +1,7 @@
+-----Grand Patrons-----
+Name: Freida Flass Money: 100500.00
+Name: Rich Raptor Money: 55000.00
+-----   Patrons   -----
+Name: Sam Stone Money: 2000.00
+Name: Tammy Tubbs Money: 5000.00
+Name:  Money: 0.00
